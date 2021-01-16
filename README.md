@@ -1,5 +1,5 @@
 ## **Introduction To Data Science In Python 2021**
-Files and programming assingments from University of Michigan Coursera's course: Introduction to Data Science in Python.
+Files and programming assingments from University of Michigan (Coursera's Online Courses) course: Introduction to Data Science in Python.
 I have Decided to create this repository because the last assingment wasn't avaible in the internet and the test may have some difficult parts.
 
 
